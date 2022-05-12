@@ -1,4 +1,4 @@
-package ru.zvezdilin.taskOfInterviews.task4_високостный_год;
+package ru.zvezdilin.taskOfInterviews.task8_високостный_год;
 
 
 import java.util.Scanner;
