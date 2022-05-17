@@ -1,3 +1,5 @@
+import ru.zvezdilin.taskOfInterviews.Singer;
+
 import java.util.Arrays;
 
 public class Main22 {
@@ -7,5 +9,15 @@ public class Main22 {
 
         System.out.println(array1.equals(array2));
         System.out.println(Arrays.equals(array1, array2));
+
+        Singer s = new Singer();
+        s.play();
+        s.aaa();
+
+
+
+
     }
+
+
 }
