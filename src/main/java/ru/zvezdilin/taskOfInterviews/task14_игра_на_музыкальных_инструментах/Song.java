@@ -1,4 +1,4 @@
-package ru.zvezdilin.taskOfInterviews.task14_игра_на_музыкальных_инструментах;
+package ru.zvezdilin.taskOfInterviews.task14_игра_на_музыкальных_инструментах.*;
 
 import java.io.IOException;
 
