@@ -1,4 +1,4 @@
-package Home_Task_Netology.six.Книги_и_авторы;
+package ru.zvezdilin.taskOfInterviews.task11_книги_и_авторы.Книги_и_авторы;
 
 public class User {
     static private int idAll=0;

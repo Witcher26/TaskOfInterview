@@ -1,6 +1,5 @@
 package ru.zvezdilin.taskOfInterviews.task9_расчет_средней_температуры;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {

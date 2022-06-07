@@ -1,6 +1,4 @@
-package ru.zvezdilin.taskOfInterviews.task14_игра_на_музыкальных_инструментах.*;
-
-import java.io.IOException;
+package ru.zvezdilin.taskOfInterviews.task14_игра_на_музыкальных_инструментах;
 
 public class Song {
     protected Instrument[] instruments;
@@ -25,6 +23,5 @@ public class Song {
             System.out.println();
             Thread.sleep(1000);
         }
-
     }
 }

@@ -1,7 +1,5 @@
 package ru.zvezdilin.taskOfInterviews.task14_игра_на_музыкальных_инструментах;
 
-import java.io.IOException;
-
 public class Main {
     public static void main(String[] args) throws Exception {
         Instrument [] instruments = {

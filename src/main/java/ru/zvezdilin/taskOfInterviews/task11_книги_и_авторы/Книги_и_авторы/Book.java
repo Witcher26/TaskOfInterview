@@ -1,4 +1,4 @@
-package Home_Task_Netology.six.Книги_и_авторы;
+package ru.zvezdilin.taskOfInterviews.task11_книги_и_авторы.Книги_и_авторы;
 
 public class Book {
     static private int numberOfBooks = 0;

@@ -1,4 +1,4 @@
-package ru.zvezdilin.taskOfInterviews.task2_вывод_повторяющихся_слов;
+package ru.zvezdilin.taskOfInterviews.task2_вывод_повторяющихся_символов;
 
 import java.util.HashSet;
 import java.util.Iterator;

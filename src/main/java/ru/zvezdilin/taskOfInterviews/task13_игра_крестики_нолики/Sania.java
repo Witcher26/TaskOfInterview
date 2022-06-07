@@ -1,5 +1,4 @@
-package Home_Task_Netology.Eight8.Допиливаем_крестики_нолики;
-
+package ru.zvezdilin.taskOfInterviews.task13_игра_крестики_нолики;
 
 //задача от Сани
 
