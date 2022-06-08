@@ -1,8 +1,8 @@
-package ru.zvezdilin.taskOfInterviews.task2_вывод_повторяющихся_символов;
+package ru.zvezdilin.taskOfInterviews.task2_вывод_повторяющихся_символов_в_слове_hello;
 
 public class Main {
     public static void main(String[] args) {
-        String text = "lHelhlo";
+        String text = "Hello";
         String[][] arrays = countOfCharInWord(text);
         printValues(arrays);
     }
@@ -16,15 +16,8 @@ public class Main {
                 if (Character.toLowerCase(text.charAt(i)) == Character.toLowerCase(text.charAt(j))) {
                     count++;
                 }
-                for (int k = 0; k < arrays.length; k++) {
-                    if (arrays[k][0] == String.valueOf(text.charAt(i))) {
-                        continue;
-                    }
-                    else {
-                        arrays[i][0] = String.valueOf(text.charAt(i));
-                        arrays[i][1] = String.valueOf(count);
-                    }
-                }
+                arrays[i][0] = String.valueOf(text.charAt(i));
+                arrays[i][1] = String.valueOf(count);
             }
         }
         return arrays;
