@@ -1,11 +1,12 @@
-package Home_Task_Netology.Eleven.Библиотека.roles;
+package ru.zvezdilin.taskOfInterviews.task18_библиотека.roles;
 
-import Home_Task_Netology.Eleven.Библиотека.User;
-import Home_Task_Netology.Eleven.Библиотека.books.Book;
-import Home_Task_Netology.Eleven.Библиотека.users.Administrator;
-import Home_Task_Netology.Eleven.Библиотека.users.Librarian;
-import Home_Task_Netology.Eleven.Библиотека.users.Reader;
-import Home_Task_Netology.Eleven.Библиотека.users.Supplier;
+
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.User;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.books.Book;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Administrator;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Librarian;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Reader;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Supplier;
 
 public class LibrarianAndAdminImp extends User implements Librarian, Administrator {
     private int count = 0;

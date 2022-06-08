@@ -1,7 +1,8 @@
-package Home_Task_Netology.Ten.ЗадачаОтБухгалтеровBigDecimal.tax;
+package ru.zvezdilin.taskOfInterviews.task16_задача_от_бухгалтеров_BigDecimal.tax;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
+
 public class ProgressiveTaxType extends TaxType {
     public ProgressiveTaxType(String name) {
         super(name);

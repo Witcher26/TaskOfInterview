@@ -1,9 +1,4 @@
-package Home_Task_Netology.Ten.Игра_Шутер;
-
-import Home_Task_Netology.Ten.Игра_Шутер.Weapon.Automate;
-import Home_Task_Netology.Ten.Игра_Шутер.Weapon.Rifle;
-import Home_Task_Netology.Ten.Игра_Шутер.Weapon.Pistol;
-import Home_Task_Netology.Ten.Игра_Шутер.Weapon.Weapon;
+package ru.zvezdilin.taskOfInterviews.task17_игра_шутер.Weapon;
 
 public class Player {
     private Weapon[] weaponSlots;

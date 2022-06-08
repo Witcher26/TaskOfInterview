@@ -1,4 +1,4 @@
-package Home_Task_Netology.Ten.ЗадачаОтБухгалтеровBigDecimal;
+package ru.zvezdilin.taskOfInterviews.task16_задача_от_бухгалтеров_BigDecimal;
 
 import java.math.BigDecimal;
 

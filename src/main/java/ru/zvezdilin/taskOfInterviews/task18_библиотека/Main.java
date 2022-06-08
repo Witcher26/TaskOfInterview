@@ -1,35 +1,13 @@
-package Home_Task_Netology.Eleven.Библиотека;
+package ru.zvezdilin.taskOfInterviews.task18_библиотека;
 
-import Home_Task_Netology.Eleven.Библиотека.books.Book;
-import Home_Task_Netology.Eleven.Библиотека.books.Magazine;
-import Home_Task_Netology.Eleven.Библиотека.roles.LibrarianAndAdminImp;
-import Home_Task_Netology.Eleven.Библиотека.roles.ReaderAndSupImp;
-import Home_Task_Netology.Eleven.Библиотека.users.Administrator;
-import Home_Task_Netology.Eleven.Библиотека.users.Librarian;
-import Home_Task_Netology.Eleven.Библиотека.users.Reader;
-import Home_Task_Netology.Eleven.Библиотека.users.Supplier;
-
-/*
-Описание
-Необходимо разработать иерархию работников библиотеки. Нужно реализовать совмещение нескольких ролей в библиотеке
-в одном исполнителе через интерфейсы. Каждый объект в программе имеет определенный набор действий.
-
-Часто программист, создающий объект, не представляет все ситуации, в которых тот будет использоваться.
-Также программисту, использующему объект, часто неизвестны все его детали.
-
-Для передачи информации о том, что должен уметь объект, используются интерфейсы.
-
-Примером интерфейсов в нашей библиотеке может служить понятие роли на проекте.
-Каждая роль подразумевает набор определенных операций, которые должен "уметь" объект пользователь — User в программе.
-
-Функционал программы
-Создайте иерархию "Пользователи библиотеки" со следующими интерфейсами:
-Читатель – берет и возвращает книги.
-Библиотекарь – заказывает книги.
-Поставщик книг – приносит книги в библиотеку.
-Администратор – находит и выдает книги и уведомляет о просрочках времени возврата.
-В методе public static void main создайте 2-3 объекта, реализующих эти интерфейсы.
- */
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.books.Book;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.books.Magazine;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.roles.LibrarianAndAdminImp;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.roles.ReaderAndSupImp;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Administrator;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Librarian;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Reader;
+import ru.zvezdilin.taskOfInterviews.task18_библиотека.users.Supplier;
 public class Main {
     public static void main(String[] args) {
         Book book1 = new Book("\"Война и мир\"");

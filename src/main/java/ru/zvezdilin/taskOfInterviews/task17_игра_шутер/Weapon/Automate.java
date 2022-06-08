@@ -1,4 +1,4 @@
-package Home_Task_Netology.Ten.Игра_Шутер.Weapon;
+package ru.zvezdilin.taskOfInterviews.task17_игра_шутер.Weapon;
 
 public class Automate extends Weapon {
     public Automate(String name, String slot) {

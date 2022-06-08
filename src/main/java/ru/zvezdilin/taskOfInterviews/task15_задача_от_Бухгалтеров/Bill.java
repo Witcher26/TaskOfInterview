@@ -1,21 +1,20 @@
-package Home_Task_Netology.Ten.ЗадачаОтБухгалтеровBigDecimal;
-import Home_Task_Netology.Ten.ЗадачаОтБухгалтеровBigDecimal.tax.*;
+package ru.zvezdilin.taskOfInterviews.task15_задача_от_Бухгалтеров;
 
-import java.math.BigDecimal;
+import ru.zvezdilin.taskOfInterviews.task15_задача_от_Бухгалтеров.Tax.TaxType;
 
 class Bill {
-    private BigDecimal amount;
+    private double amount;
     private TaxType taxType;
     private TaxService taxService;
 
-    public Bill(BigDecimal amount, TaxType taxType, TaxService taxService) {
+    public Bill(double amount, TaxType taxType, TaxService taxService) {
         this.amount = amount;
         this.taxType = taxType;
         this.taxService = taxService;
     }
 
     public void payTaxes() {
-        BigDecimal taxAmount = taxType.calculateTaxFor(amount);
+        double taxAmount = taxType.calculateTaxFor(amount);
         String greenColor = (char) 27 + "[32m";// зеленый цвет
         System.out.println(greenColor + "Тип налога: \"" + taxType.toString() + "\"");
         taxService.payOut(taxAmount);

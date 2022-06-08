@@ -1,4 +1,4 @@
-package Home_Task_Netology.FifteenHashMapHashSet.ListOfStudents;
+package ru.zvezdilin.taskOfInterviews.task27_список_студентов;
 
 import java.util.Objects;
 

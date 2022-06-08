@@ -1,8 +1,6 @@
-package Home_Task_Netology.SixteenTreeSet_И_TreeMap.SystemOfCandidates;
+package ru.zvezdilin.taskOfInterviews.task29_система_подбора_кандидатов;
 
-import Home_Task_Netology.SixteenTreeSet_И_TreeMap.SystemOfCandidates.candidates.Candidate;
-
-//import static org.junit.jupiter.api.Assertions.*;
+import ru.zvezdilin.taskOfInterviews.task29_система_подбора_кандидатов.candidates.Candidate;
 
 class MainTest {
     public static void main(String[] args) {

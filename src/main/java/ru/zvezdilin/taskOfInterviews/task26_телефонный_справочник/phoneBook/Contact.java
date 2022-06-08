@@ -1,4 +1,4 @@
-package Home_Task_Netology.FifteenHashMapHashSet.PhoneBook.phoneBook;
+package ru.zvezdilin.taskOfInterviews.task26_телефонный_справочник.phoneBook;
 
 import java.util.Objects;
 

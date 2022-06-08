@@ -1,4 +1,4 @@
-package Home_Task_Netology.Eleven.Банковские_счета.accounts;
+package ru.zvezdilin.taskOfInterviews.task19_банковские_счета.accounts;
 
 public class CreditAccount extends Account {
     public CreditAccount(String name, int balance) {

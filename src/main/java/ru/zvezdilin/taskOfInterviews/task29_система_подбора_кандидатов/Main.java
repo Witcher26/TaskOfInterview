@@ -1,19 +1,6 @@
-package Home_Task_Netology.SixteenTreeSet_И_TreeMap.SystemOfCandidates;
+package ru.zvezdilin.taskOfInterviews.task29_система_подбора_кандидатов;
+import ru.zvezdilin.taskOfInterviews.task29_система_подбора_кандидатов.candidates.Candidate;
 
-import Home_Task_Netology.SixteenTreeSet_И_TreeMap.SystemOfCandidates.candidates.Candidate;
-
-/*
-Описание
-Задача по системе подбора кандидатов по базам резюме. Необходимо хранить кандидатов таким образом,
-чтобы они сортировались в порядке убывания, по двум полям одновременно — по релевантности резюме и по оценке на собеседовании
-(т.е. среди двух кандидатов предпочтение отдаётся тому, у которого выше релевантность резюме,
-а среди равных по этому параметру тому, у кого выше оценка на собеседовании).
-
-Функционал программы
-Класс, описывающий кандидата
-Создать множество, заполнить его кандидатами (общаться с пользователями не нужно);
-Вывод кандидатов в отсортированном порядке.
- */
 public class Main {
     public static void main(String[] args) {
         System.out.println("Start");

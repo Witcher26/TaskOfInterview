@@ -1,4 +1,4 @@
-package Home_Task_Netology.Ten.Игра_Шутер.Weapon;
+package ru.zvezdilin.taskOfInterviews.task17_игра_шутер.Weapon;
 
 public class Rifle extends Weapon {
     public Rifle(String name, String slot) {

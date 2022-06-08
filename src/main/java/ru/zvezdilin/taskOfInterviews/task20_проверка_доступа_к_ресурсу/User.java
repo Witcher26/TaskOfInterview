@@ -1,4 +1,4 @@
-package Home_Task_Netology.TwelveИсключения.ПроверкаДоступаКресурсу;
+package ru.zvezdilin.taskOfInterviews.task20_проверка_доступа_к_ресурсу;
 
 public class User {
     private static int allId=0;

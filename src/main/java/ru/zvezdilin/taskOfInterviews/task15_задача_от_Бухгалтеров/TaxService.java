@@ -1,5 +1,4 @@
-package Home_Task_Netology.Ten.Задача_от_Бухгалтеров;
-
+package ru.zvezdilin.taskOfInterviews.task15_задача_от_Бухгалтеров;
 
 class TaxService {
     public void payOut(double taxAmount) {

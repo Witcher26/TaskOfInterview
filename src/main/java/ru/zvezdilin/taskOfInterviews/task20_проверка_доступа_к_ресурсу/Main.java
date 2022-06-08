@@ -1,25 +1,9 @@
-package Home_Task_Netology.TwelveИсключения.ПроверкаДоступаКресурсу;
+package ru.zvezdilin.taskOfInterviews.task20_проверка_доступа_к_ресурсу;
 
 import java.util.Scanner;
 
 import static java.lang.System.*;
-/*
-Описание
-В этом задании мы напишем программу для проверки доступа к ресурсу.
-Во время запуска программы нужно запросить логин или пароль пользователя.
-Если один из введеных параметров не совпадает (логин/пароль), то нужно выбросить checked исключение UserNotFoundException.
-Если возраст пользователя менее 18 лет, то нужно выбросить исключение AccessDeniedException, а если 18 и больше лет - вывести сообщение "Доступ предоставлен".
 
-Массив пользователей для авторизации нужно описать до запуска программы. Каждая запись пользователя содержит поля: login, password, age (возраст) и email.
-
-Функционал программы
-Создание Scanner для чтения логина и пароля пользователя из консоли;
-Создание checked исключения UserNotFoundException;
-Создание checked исключения AccessDeniedException;
-Выбрасывать ошибку UserNotFoundException, если логин или пароль введены не верно;
-Выбрасывать ошибку AccessDeniedException, если возраст пользователя меньше 18 лет;
-Если ошибок не возникло, вывести сообщение "Доступ предоставлен".
- */
 public class Main {
     private static String userLogin;
     private static String userPassword;

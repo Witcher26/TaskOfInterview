@@ -1,30 +1,11 @@
-package Home_Task_Netology.SixteenTreeSet_И_TreeMap.MissedCalls;
+package ru.zvezdilin.taskOfInterviews.task28_пропущенные_вызовы;
 
-import Home_Task_Netology.SixteenTreeSet_И_TreeMap.MissedCalls.phoneBook.Contact;
-import Home_Task_Netology.SixteenTreeSet_И_TreeMap.MissedCalls.phoneBook.MissedCalls;
-import Home_Task_Netology.SixteenTreeSet_И_TreeMap.MissedCalls.phoneBook.PhoneBook;
+import ru.zvezdilin.taskOfInterviews.task28_пропущенные_вызовы.phoneBook.Contact;
+import ru.zvezdilin.taskOfInterviews.task28_пропущенные_вызовы.phoneBook.MissedCalls;
+import ru.zvezdilin.taskOfInterviews.task28_пропущенные_вызовы.phoneBook.PhoneBook;
 
 import java.time.LocalDateTime;
-/*
-Совсем недавно мы с вами создавали программу для хранения номеров телефонов.
-Следующая программа будет будет немного схожа по тематике. Нужно написать программу для хранения пропущенных звонков,
-используя уже изученные коллекции, в том числе коллекцию TreeMap.
-Программа должна хранить список пропущенных вызовов в формате: дата и время звонка и номер.
 
-Вам надо разработать систему классов:
-
-Класс контакта
-Класс телефонной книги из прошлого задания + метод для поиска контакта по номеру
-Класс списка пропущенных вызовов
-Пропущенный вызов должен описываться временем и номером (не контактом).
-Для времени используйте класс LocalDateTime, для получения текущего момента времени - LocalDateTime.now().
-
-В классе списка пропущенных вызовов должен быть метод, принимающий телефонную книгу и выводящий
-на экран все пропущенные вызовы в том порядке, в котором они поступали,
-при этом для номеров для которых есть контакт должно быть выведено на экран имя звонившего, а не номер.
-
-В классе Main продемонстрируйте работу ваших классов.
- */
 public class Main {
     public static final long MAX = 999_999_99_99L;
     public static final long MiN = 900_000_00_00L;

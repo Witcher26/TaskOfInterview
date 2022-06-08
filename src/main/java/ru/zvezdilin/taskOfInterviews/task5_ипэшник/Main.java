@@ -1,4 +1,4 @@
-package ru.zvezdilin.taskOfInterviews.task5_Ипэшник;
+package ru.zvezdilin.taskOfInterviews.task5_ипэшник;
 
 import java.util.Scanner;
 import static java.lang.System.*;

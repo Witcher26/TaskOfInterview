@@ -1,4 +1,4 @@
-package ru.zvezdilin.taskOfInterviews.task6_Сравнение_double;
+package ru.zvezdilin.taskOfInterviews.task6_сравнение_double;
 
 import java.util.Scanner;
 import static java.lang.System.*;

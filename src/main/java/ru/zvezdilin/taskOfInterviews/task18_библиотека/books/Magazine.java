@@ -1,6 +1,4 @@
-package Home_Task_Netology.Eleven.Библиотека.books;
-
-import Home_Task_Netology.Eleven.Библиотека.books.Book;
+package ru.zvezdilin.taskOfInterviews.task18_библиотека.books;
 
 public class Magazine extends Book {
     public Magazine(String name) {

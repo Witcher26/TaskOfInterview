@@ -1,4 +1,4 @@
-package Home_Task_Netology.Ten.Задача_от_Бухгалтеров.Tax;
+package ru.zvezdilin.taskOfInterviews.task15_задача_от_Бухгалтеров.Tax;
 
 public class VATaxType extends TaxType {
     public VATaxType(String name) {

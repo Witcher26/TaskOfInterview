@@ -1,4 +1,4 @@
-package Home_Task_Netology.TwelveИсключения.ВалидацияПрочитанныхСобытий;
+package ru.zvezdilin.taskOfInterviews.task21_валидация_прочитанных_событий;
 
 public abstract class Event {
     private String title;

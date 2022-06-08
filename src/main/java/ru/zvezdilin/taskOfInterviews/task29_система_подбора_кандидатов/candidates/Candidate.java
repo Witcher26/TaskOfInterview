@@ -1,4 +1,4 @@
-package Home_Task_Netology.SixteenTreeSet_И_TreeMap.SystemOfCandidates.candidates;
+package ru.zvezdilin.taskOfInterviews.task29_система_подбора_кандидатов.candidates;
 
 import java.util.*;
 

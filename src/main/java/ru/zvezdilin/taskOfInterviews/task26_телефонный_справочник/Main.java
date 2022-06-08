@@ -1,33 +1,7 @@
-package Home_Task_Netology.FifteenHashMapHashSet.PhoneBook;
+package ru.zvezdilin.taskOfInterviews.task26_телефонный_справочник;
 
-/*
-Эта задача про телефонный справочник с поддержкой групп контактов. Один контакт может входить в несколько групп.
-Например, если вы работаете со своим другом, то он будет в группах "Друзья" и "Работа".
-Должна быть возможность создания групп и контактов, добавления одного контакта в несколько групп.
-Вам предстоит разработать систему классов:
-
-Contact - класс контакт
-PhoneBook - класс телефонной книги с контактами и группами.
-Общаться с пользователем в main необязательно, просто продемонстрируйте работспособность ваших классов.
-
-Функционал классов
-Создание группы контактов;
-Создание контакта;
-Добавление контакта в разные группы;
-Поиск контактов по группе;
-Поиск контакта по номеру (одну из этих двух последних операций можно сделать перебором);
-
-Реализация
-1.Создадим класс PhoneBook, в котором будем хранить все созданные группы.
-2. В классе PhoneBook создадим HashMap: ключом для этой коллекции будет название группы, а значением — список контактов (List<Contact>).
-3. Создадим класс Contact c полями: имя и номер телефона (при необходимости переоределим hashCode, equals, toString).
-4. Создадим методы для добавления группы и контакта в группы в классе PhoneBook.
-5. Для демонстрации работы программы в коде создадим несколько контактов и добавим их в несколько групп.
-
- */
-
-import Home_Task_Netology.FifteenHashMapHashSet.PhoneBook.phoneBook.Contact;
-import Home_Task_Netology.FifteenHashMapHashSet.PhoneBook.phoneBook.PhoneBook;
+import ru.zvezdilin.taskOfInterviews.task26_телефонный_справочник.phoneBook.Contact;
+import ru.zvezdilin.taskOfInterviews.task26_телефонный_справочник.phoneBook.PhoneBook;
 
 public class Main {
     public static void main(String[] args) {
@@ -64,4 +38,5 @@ public class Main {
         phoneBook.addContact(fedor, null);
     }
 }
+
 

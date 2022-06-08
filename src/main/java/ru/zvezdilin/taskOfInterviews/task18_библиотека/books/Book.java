@@ -1,4 +1,4 @@
-package Home_Task_Netology.Eleven.Библиотека.books;
+package ru.zvezdilin.taskOfInterviews.task18_библиотека.books;
 
 public class Book {
     private static int idAll = 0;

@@ -1,13 +1,14 @@
-package Home_Task_Netology.Ten.ЗадачаОтБухгалтеровBigDecimal;
-import Home_Task_Netology.Ten.ЗадачаОтБухгалтеровBigDecimal.tax.*;
+package ru.zvezdilin.taskOfInterviews.task16_задача_от_бухгалтеров_BigDecimal;
+
+import ru.zvezdilin.taskOfInterviews.task16_задача_от_бухгалтеров_BigDecimal.tax.IncomeTaxType;
+import ru.zvezdilin.taskOfInterviews.task16_задача_от_бухгалтеров_BigDecimal.tax.ProgressiveTaxType;
+import ru.zvezdilin.taskOfInterviews.task16_задача_от_бухгалтеров_BigDecimal.tax.VATaxType;
+
 import java.math.BigDecimal;
 
 public class Main {
-
     public static void main(String[] args) {
-
         TaxService taxService = new TaxService();
-
         IncomeTaxType incomeTaxType = new IncomeTaxType("Подоходный налог");
         ProgressiveTaxType progressiveTaxType = new ProgressiveTaxType("Прогрессивный налог");
         VATaxType vaTaxType = new VATaxType("НДС");
