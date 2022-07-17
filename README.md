@@ -27,7 +27,7 @@
   2
 
   Решение
-  https://github.com/Witcher26/method_to_get_count_of_employees/blob/master/src/main/java/com/zvezdilin/MethodOfCountingEmployees/SomeClass.java
+https://github.com/Witcher26/method_to_get_count_of_employees/tree/master/src/main/java/com/zvezdilin/MethodOfCountingEmployees
 
 ### Задача №2 - `Вывод повторяющихся символов в слове`  
 Слово - "hello"
