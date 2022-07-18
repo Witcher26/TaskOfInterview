@@ -1,4 +1,4 @@
-# Task of interview
+# Tasks of interview
 Задачи с собеседований
 
 ***
