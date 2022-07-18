@@ -173,6 +173,7 @@ https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdi
 - Сберегательный счет (SavingsAccount);
 - Кредитный счет (CreditAccount);
 - Расчетный счет (CheckingAccount).  
+
 Решение:  
 https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task19_%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%87%D0%B5%D1%82%D0%B0  
 
