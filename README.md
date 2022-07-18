@@ -63,7 +63,7 @@ https://github.com/Witcher26/TaskOfInterview/blob/target/src/main/java/ru/zvezdi
 Нужно помнить, что налог не может быть отрицательным;
 Программа должна быть структурирована в методы (например, расчёт налога для одной системы налогообложения должен представлять собой отдельный статический метод)  
 Решение:  
-https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task5_%D0%B8%D0%BF%D1%8D%D1%88%D0%BD%D0%B8%D0%BA  
+https://github.com/Witcher26/TaskOfInterview/blob/target/src/main/java/ru/zvezdilin/taskOfInterviews/task5_%D0%B8%D0%BF%D1%8D%D1%88%D0%BD%D0%B8%D0%BA/Main.java  
 
 ### Задача №6 - `Сравнение double`
 Описание  
@@ -74,7 +74,7 @@ https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdi
 Ввод двух чисел для сравнения (одно double, другое float) или одного (для округления или отброса дробной части);
 Вывод результата.  
 Решение:  
-https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task6_%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_double  
+https://github.com/Witcher26/TaskOfInterview/blob/target/src/main/java/ru/zvezdilin/taskOfInterviews/task6_%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_double/Main.java  
 
 ### Задача №7 - `Угадываем високосность`
 Описание  
