@@ -44,6 +44,8 @@ https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdi
 
 ### Задача №4 - `Мама моет раму, Рама держит маму. Вышла замуж мама за индуса Раму - вывести на экран, сколько раз повторяется каждое слово`.   
 Использовать HashMap.  
+Решение:  
+https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task4_%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4_%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F_%D1%81%D0%BB%D0%BE%D0%B2
 
 ### Задача №5 - `ИПэшник`.
 Описание  
@@ -59,7 +61,9 @@ https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdi
 - Программа должна завершаться при вводе слова end;
 
 Нужно помнить, что налог не может быть отрицательным;
-Программа должна быть структурирована в методы (например, расчёт налога для одной системы налогообложения должен представлять собой отдельный статический метод)
+Программа должна быть структурирована в методы (например, расчёт налога для одной системы налогообложения должен представлять собой отдельный статический метод)  
+Решение:  
+https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task5_%D0%B8%D0%BF%D1%8D%D1%88%D0%BD%D0%B8%D0%BA  
 
 ### Задача №6 - `Сравнение double`
 Описание  
@@ -68,7 +72,9 @@ https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdi
 Функционал программы
 Ввод номера желаемой операции (сравнить/округлить/отбросить дробную часть);
 Ввод двух чисел для сравнения (одно double, другое float) или одного (для округления или отброса дробной части);
-Вывод результата.
+Вывод результата.  
+Решение:  
+https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task6_%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_double  
 
 ### Задача №7 - `Угадываем високосность`
 Описание  
