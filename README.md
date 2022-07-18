@@ -38,7 +38,10 @@ https://github.com/Witcher26/method_to_get_count_of_employees/tree/master/src/ma
 https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task2_%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4_%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2_%D0%B2_%D1%81%D0%BB%D0%BE%D0%B2%D0%B5_hello
 
 ### Задача №3 - `Дан массив целых чисел. Написать метод, который будет выводить все простые числа`.   
-Примечание: простые числа делятся на 1 и на сами себя.   
+Примечание: простые числа делятся на 1 и на сами себя.  
+Решение:  
+https://github.com/Witcher26/TaskOfInterview/tree/target/src/main/java/ru/zvezdilin/taskOfInterviews/task3_%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D1%85_%D1%87%D0%B8%D1%81%D0%B5%D0%BB  
+
 ### Задача №4 - `Мама моет раму, Рама держит маму. Вышла замуж мама за индуса Раму - вывести на экран, сколько раз повторяется каждое слово`.   
 Использовать HashMap.  
 
